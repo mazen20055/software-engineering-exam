@@ -34,7 +34,7 @@ ul li a{
 }
 .content .text{
     width: 50%;
-    color: aliceblue;
+    color: rgb(31, 136, 227);
 }
 .content{
     display: flex;
